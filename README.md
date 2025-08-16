@@ -251,16 +251,17 @@ Propiedad de VentasPlus S.A. - Todos los derechos reservados.
 
 ## 👥 Equipo de Desarrollo
 
-- **Desarrollador Principal**: [Tu Nombre]
-- **Fecha de Desarrollo**: Diciembre 2024
+- **Desarrollador Principal**: [John Jairo Vargas González]
+- **Fecha de Desarrollo**: Agosto 2025
 
 ## 📞 Soporte
 
 Para soporte técnico, contactar:
-- Email: soporte@ventasplus.com
-- Documentación: [Wiki del Proyecto](https://github.com/usuario/comisiones-ventasplus/wiki)
+- Email: johnjairovargasgonzalez@gmail.com
+- Documentación: [Wiki del Proyecto](https://github.com/johnja1989/comisiones-ventasplus)
 
 ---
 
 **Versión**: 1.0.0  
-**Última Actualización**: Diciembre 2024
+
+**Última Actualización**: Agosto 2025
